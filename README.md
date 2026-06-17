@@ -1,6 +1,6 @@
 # Implementación de Series de Tiempo en R
 
-ste repositorio contiene material teórico y práctico desarrollado para la asignatura Taller 1 de la carrera de Ingeniería Estadística de la Universidad de Santiago de Chile (USACH), correspondiente al primer semestre del año 2026.
+Éste repositorio contiene material teórico y práctico desarrollado para la asignatura Taller 1 de la carrera de Ingeniería Estadística de la Universidad de Santiago de Chile (USACH), correspondiente al primer semestre del año 2026.
 
 Taller 1 corresponde a la primera práctica profesional de la carrera. Esta actividad se realiza de manera interna dentro de la universidad y es supervisada por profesores de la Carrera.
 
